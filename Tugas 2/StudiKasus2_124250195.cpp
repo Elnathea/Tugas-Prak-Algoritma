@@ -5,10 +5,10 @@ int n = 5;
 
     string namabuku[6] = {
         "Algoritma",
-        "Basis Data",
-        "Manajemen Organisasi",
+        "BasisData",
+        "ManajemenOrganisasi",
         "Pemrograman",
-        "Struktur Data"
+        "StrukturData"
     };
 
     int hargabuku[6] = {
@@ -141,3 +141,4 @@ int main() {
 
     return 0;
 }
+
